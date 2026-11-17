@@ -1,5 +1,9 @@
 # zech-forge2 — github-core-clone-01 (make.fun, ZECH)
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/JACKETAGENT-ID/github-core-clone-01-zech2/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/JACKETAGENT-ID/github-core-clone-01-zech2/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A pure-Python-stdlib, single-file (`main.py`, ~3.300 lines) GitHub-core clone:
 REST v3, GraphQL, MCP, and git smart HTTP (v0/v2, shallow fetch/deepen),
 in-memory store with a pack cache. No dependencies, no build step.
@@ -52,3 +56,7 @@ on 127.0.0.1) passes. v2 binds `0.0.0.0`, verified with `ss` showing
 - PR merge-conflict used the stale `base_sha` snapshot from PR creation
   instead of the current base-branch tip, so a conflict after an earlier
   merge went undetected (405 now works).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=zemmsxtv&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
